@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Project8 {
+public class Lab7 {
 
     public static Integer EvaluatePostFix(String exp) {
         // FINISH ME
